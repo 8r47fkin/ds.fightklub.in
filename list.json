@@ -1,0 +1,351 @@
+{
+
+	"en": {
+
+		"Week 1": {
+
+			"Data Science": {
+				"Introduction": "api/en/w1/intro",
+				"What is Data Science?": "api/en/w1/ds",
+				"Collecting Data": "api/en/w1/collect",
+				"Storing Data": "api/en/w1/store",
+				"Processing Data": "api/en/w1/process",
+				"Describing Data": "api/en/w1/describe",
+				"Statistical Modelling": "api/en/w1/sm",
+				"Algorithmic Modelling": "api/en/w1/am"
+			},
+
+			"Algorithmic Modelling": {
+                "Machine Learning": "api/en/w1/ml",
+				"Deep Learing": "api/en/w1/dl",
+				"Artificial Intelligence": "api/en/w1/ai"
+			},
+
+			"Machine Learning": {
+                "Introduction": "api/en/programming/variables-and-operators"
+			},
+
+			"Deep Learning": {
+                "Introduction": "api/en/programming/variables-and-operators"
+			},
+			
+
+			"Artificial Intelligence": {
+                "Introduction to Artificial Intelligence": "api/en/programming/variables-and-operators",
+				"Problem Solving": "api/en/w1/solve",
+				"Knowledge Representation and Reasoning": "api/en/w1/krr",
+				"Decision Making": "api/en/w1/dm",
+				"Communication, Perception and Actuation": "api/en/w1/cpa"
+			},
+
+			"Myth and Path": {
+				"Myths of Data Science": "api/en/w1/myths",
+				"Path to Data Science": "api/en/w1/path"
+			}
+
+		},
+
+		"Week 2": {
+
+			"Engineering Data Science Systems": {
+                "Engineering Aspects of Data Science": "api/en/programming/variables-and-operators",
+				"System Perspective of Data Science": "api/en/programming/variables",
+				"CRISP-DM Business Understanding": "api/en/programming/naming-variables",
+				"CRISP-DM Data Understanding, Preparation & Modelling": "api/en/programming/assignment-sign",
+				"CRISP-DM Evaluation & Deployment": "api/en/programming/basic-operators",
+				"Programming Tools": "api/en/programming/more-operators",
+				"Python": "api/en/programming/basic-operators",
+				"Python Libraries": "api/en/programming/more-operators",
+				"Summary": "api/en/programming/more-operators"
+			},
+
+			"What is Statistics?": {
+                "Introduction to Statistics": "api/en/programming/variables-and-operators",
+				"What is Statistics": "api/en/programming/variables",
+				"How to Select a Sample": "api/en/programming/naming-variables",
+				"How to Design an Experiment": "api/en/programming/assignment-sign",
+				"How to Describe and Summarize Data": "api/en/programming/basic-operators",
+				"Why do we need Probability Theory?": "api/en/programming/more-operators",
+				"PHow do we give Gurantees for Estimates made from sample": "api/en/programming/basic-operators",
+				"What is Hypothesis & How do we test it?": "api/en/programming/more-operators",
+				"How to model relationship between variables?": "api/en/programming/more-operators",
+				"How well the model fit into the data?": "api/en/programming/more-operators",
+				"Summary": "api/en/programming/more-operators"
+			}
+
+		},
+
+		"Week 3": {
+
+			"Python": {
+				"Getting Started with Python": "Getting Started with Python",
+				"Google Colab": "api/en/projects/ProjectsTime",
+				"Printing & Basic Data Types": "api/en/projects/ProjectsTime",
+				"Variables": "api/en/projects/ProjectsTime",
+				"Integers, Floating Points, Boolean types & Input": "api/en/projects/ProjectsTime",
+				"Processing Strings, Integers & Floating Points": "api/en/projects/ProjectsTime",
+				"If, For, While Blocks": "api/en/projects/ProjectsTime",
+				"Functions": "api/en/projects/ProjectsTime"
+			}
+
+		},
+
+		"Week 4": {
+
+			"Descriptive Statistics": {
+				"Introduction to Descriptive Statistics": "Getting Started with Python",
+				"Different types of Data": "api/en/projects/ProjectsTime",
+				"How to describe Qualitative Data?": "api/en/projects/ProjectsTime",
+				"Course Insights": "api/en/projects/ProjectsTime",
+				"How to describe Quantitative Data?": "api/en/projects/ProjectsTime",
+				"Histograms Continued": "api/en/projects/ProjectsTime",
+				"Typical Trends in Histograms": "api/en/projects/ProjectsTime",
+				"Uses of Histograms in ML": "api/en/projects/ProjectsTime",
+				"Stem and Leaf Plots": "api/en/projects/ProjectsTime",
+				"How to describe relationship between variables? Scatter plots": "api/en/projects/ProjectsTime",
+				"Uses of Scatter Plots": "api/en/projects/ProjectsTime",
+				"Uses of Scatter Plots in ML": "api/en/projects/ProjectsTime"
+			}
+
+		},
+
+		"Week 5": {
+
+			"Python Continued": {
+				"Commenting and Error Handling": "Getting Started with Python",
+				"Lists": "api/en/projects/ProjectsTime",
+				"Lists Continued": "api/en/projects/ProjectsTime",
+				"Tuples & Sets": "api/en/projects/ProjectsTime",
+				"Dictionaries": "api/en/projects/ProjectsTime",
+				"File Handling - Read": "api/en/projects/ProjectsTime",
+				"File Handling - Write": "api/en/projects/ProjectsTime"
+			}
+
+		},
+
+		"Week 6": {
+
+			"Descriptive Statistics Part 2": {
+				"Introduction - Measure of Centrality and Speed": "Getting Started with Python",
+				"Different measures of Centrality": "api/en/projects/ProjectsTime",
+				"Characteristics of Measures of Centrality": "api/en/projects/ProjectsTime",
+				"Sensitivity of the Measures of Centrality to Outliers": "api/en/projects/ProjectsTime",
+				"What do the measures of Centrality look like for different types of distributions?": "api/en/projects/ProjectsTime",
+				"Compute median from a histogram": "api/en/projects/ProjectsTime",
+				"Compute mean from a Histogram": "api/en/projects/ProjectsTime",
+				"Compute Mode from a Histograms": "api here",
+				"Effect of Transformations on the Measures of centrality": "api here"
+			}
+		},
+
+		"Week 7": {
+
+			"Descriptive Statistics Part 3": {
+				"Introduction to Measures of Spread - Percentiles": "Getting Started with Python",
+				"Procedure for Computing Percentile": "api/en/projects/ProjectsTime",
+				"Alternative methods for Computing Percentile": "api/en/projects/ProjectsTime",
+				"Frequently used Percentile": "api/en/projects/ProjectsTime",
+				"Compute the Percentile rank of a value in the data": "api/en/projects/ProjectsTime",
+				"Effect of Transformation on Percentiles": "api/en/projects/ProjectsTime",
+				"Summary Percentiles": "api/en/projects/ProjectsTime",
+				"Measures of Spread": "api here",
+				"Measures of Spread(Variance)": "api here",
+				"Why we square the Deviations?": "api here",
+				"What does the variance tell us about the data?": "api here",
+				"Effect of Transformations on Measures of spread": "api here",
+				"How do you use mean & Variance to Standardize Data": "api here",
+				"Summary of Measure of Spreads": "api here",
+				"What are Box Plots?": "api here"
+			}
+		},
+
+		"Week 8": {
+
+			"Numpy": {
+				"Python Data Containers - Reference": "Getting Started with Python",
+				"NumPy": "api/en/projects/ProjectsTime",
+				"High Dimensional Array & Creating NumPy Array": "api/en/projects/ProjectsTime",
+				"Indexing": "api/en/projects/ProjectsTime",
+				"Numpy Operations": "api/en/projects/ProjectsTime",
+				"Problem Solution": "api/en/projects/ProjectsTime",
+				"Broadcasting": "api/en/projects/ProjectsTime",
+				"File handling": "api here",
+				"Stats with Numpy": "api here",
+				"Rules of Statistics": "api here",
+				"Case Study & Problems": "api here"
+			}
+		},
+
+		"Week 9": {
+
+			"Pandas": {
+				"Introduction Pandas": "Getting Started with Python",
+				"Creating Series Object": "api/en/projects/ProjectsTime",
+				"iLoc & Loc": "api/en/projects/ProjectsTime",
+				"Simple Operations": "api/en/projects/ProjectsTime",
+				"Task & Solutions": "api/en/projects/ProjectsTime",
+				"NIFTY Case Study": "api/en/projects/ProjectsTime"
+			}
+		},
+
+		"Week 10": {
+
+			"Pandas Continued": {
+				"Dataframe Object": "Getting Started with Python",
+				"Task on Creating DataFrames": "api/en/projects/ProjectsTime",
+				"Creating Mean Row": "api/en/projects/ProjectsTime",
+				"Working with Planetary Dataset": "api/en/projects/ProjectsTime",
+				"Droping Null Values": "api/en/projects/ProjectsTime",
+				"Querying from dataframe": "api/en/projects/ProjectsTime",
+				"Applying functions to dataframes": "api/en/projects/ProjectsTime",
+				"Use of groupby method": "api/en/projects/ProjectsTime",
+				"Filter, Split, Apply, Aggregate": "api/en/projects/ProjectsTime",
+				"Working with Nifty50 Dataset": "api/en/projects/ProjectsTime",
+				"Nifty Data - Download": "api/en/projects/ProjectsTime",
+				"Tasks on NIFTY Datasets": "api/en/projects/ProjectsTime"
+			}
+		},
+
+		"Week 11": {
+
+			"Visualization": {
+				"Data Visualization": "Getting Started with Python",
+				"Read Complex JSON Files": "api/en/projects/ProjectsTime",
+				"Styling Tabulation": "api/en/projects/ProjectsTime",
+				"Distribution of Data - Histogram": "api/en/projects/ProjectsTime",
+				"Box Plot": "api/en/projects/ProjectsTime",
+				"Distribution of a categorical Variable": "api/en/projects/ProjectsTime",
+				"Joint Distribution of two variables": "api/en/projects/ProjectsTime",
+				"Swarm Plot": "api/en/projects/ProjectsTime",
+				"Violin Plot": "api/en/projects/ProjectsTime",
+				"Multiple Violin Plots": "api/en/projects/ProjectsTime",
+				"Paired Violin Plots": "api/en/projects/ProjectsTime",
+				"Faceted plotting": "api/en/projects/ProjectsTime",
+				"Pair Plots": "api/en/projects/ProjectsTime",
+				"Boxen Plots": "api/en/projects/ProjectsTime"
+			}
+		},
+
+		"Week 12": {
+
+			"Visualization Continued": {
+				"Data Visualization - Recap": "Getting Started with Python",
+				"Pie Chart": "api/en/projects/ProjectsTime",
+				"Donut Chart": "api/en/projects/ProjectsTime",
+				"Stacked Bar Plot": "api/en/projects/ProjectsTime",
+				"Relative Stacked Bar Plot": "api/en/projects/ProjectsTime",
+				"Time - Varying composition of data": "api/en/projects/ProjectsTime",
+				"Stacked Area Plot": "api/en/projects/ProjectsTime",
+				"Scatter Plots": "api/en/projects/ProjectsTime",
+				"Bar Plot": "api/en/projects/ProjectsTime",
+				"Continuous vs Continuous Plot": "api/en/projects/ProjectsTime",
+				"Line Plot": "api/en/projects/ProjectsTime",
+				"Line Plot Covid Data": "api/en/projects/ProjectsTime",
+				"Heat Map": "api/en/projects/ProjectsTime",
+				"Summary & Task on Open-ended visualisation": "api/en/projects/ProjectsTime"
+			}
+		},
+
+		"Week 13": {
+
+			"Approaching Open Ended DS Problems": {
+				"Agriculture Example Part 1": "api/en/",
+				"Pandas Recap": "api/en/",
+				"Open Ended descriptive Statistics": "api/en/",
+				"Handling missing Data": "api/en/",
+				"Missing data with Pandas": "api/en/",
+				"Agriculture Example Part 2": "api update"
+			}
+		},
+
+		"Week 14": {
+
+			"Counting": {
+				"git update here": "api update"
+			}
+		},
+
+		"Week 15": {
+
+			"Sample Spaces & Events": {
+				"git update here": "api update"
+			}
+		},
+
+		"Week 16": {
+
+			"Random Variables": {
+				"git update here": "api update"
+			}
+		},
+
+		"Week 17": {
+
+			"Distribution & Sample Strategies": {
+				"git update here": "api update"
+			}
+		},
+
+		"Week 18": {
+
+			"Distribution & Sample Statistics": {
+				"git update here": "api update"
+			}
+		},
+
+		"Week 19": {
+
+			"Central Limit Theorem": {
+				"git update here": "api update"
+			}
+		},
+
+		"Week 20": {
+
+			"Chi Square Distribution": {
+				"git update here": "api update"
+			}
+		},
+
+		"Week 21": {
+
+			"Point and Interval Estimators": {
+				"git update here": "api update"
+			}
+		},
+
+		"Week 22": {
+
+			"Hypothesis Testing": {
+				"git update here": "api update"
+			}
+		}
+
+	},
+
+    "ta": {
+
+		"Vannakam di Mappilai": {
+
+			"Adi Viraivil": {
+				"Vaathi Coming": "api/ta/introduction/Installation",
+				"Want to contribute?": "api/ta/contribute"
+			}
+
+		}
+
+	},
+
+    "hi": {
+
+		"Namaste, Chai Peelo Fraands": {
+
+			"Rukho jara Sabhar Karo": {
+				"Jaldi aaraha hei": "api/hi/introduction/Installation",
+				"Want to contribute?": "api/hi/contribute"
+			}
+
+		}
+
+	}
+}

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<base href="../../../../../" />
+		<script src="page.js"></script>
+		<link type="text/css" rel="stylesheet" href="page.css" />
+	</head>
+	<body>
+		<h1>Store Data</h1>
+        <br>
+        <p>
+			Storing data involves maintaining the collected data for use during the data science pipeline. Structured data is typically stored in relational-databases and aggregated in data-warehouses. With the advent of Big-Data, Data Lakes are now used to store multimodal structured and unstructured data.
+        </p>
+        <p>
+            here is a detailed Breakdown
+			<p>
+				<b>Data Storage Components</b>
+				<ol>
+					<li>Storage Solutions:
+						<ul>
+							<li>Databases: Systems designed to store and manage structured data.
+								<ul>
+									<li>Relational Databases (SQL): Use tables to store data (e.g., MySQL, PostgreSQL).</li>
+									<li>NoSQL Databases: Handle unstructured or semi-structured data (e.g., MongoDB, Cassandra).</li>
+								</ul>
+							</li>
+							<li>Data Warehouses: Central repositories for storing large volumes of structured data from multiple sources, optimized for query and analysis (e.g., Apache Hive, ClickHouse, Apache Druid, Amazon Redshift, Google BigQuery).</li>
+							<li>Data Lakes: Storage systems that can hold vast amounts of raw data in its native format until needed for processing and analysis (e.g., Hadoop, Apache Hudi, Delta Lake, AWS S3).</li>
+							<li>Cloud Storage: Services provided by cloud computing platforms to store and manage data with high scalability and accessibility (e.g., AWS S3, Google Cloud Storage, Azure Blob Storage).</li>
+						</ul>
+					</li>
+					<li>Data Management Systems:
+						<ul>
+							<li>File Systems: Organized collections of files and directories, useful for storing unstructured data like text files, images, and videos.</li>
+							<li>Distributed Storage Systems: Systems that distribute data across multiple servers or locations to improve reliability and performance (e.g., HDFS, Apache Cassandra).</li>
+						</ul>
+					</li>
+				</ol>
+				<b>Key Practices in Data Storage</b>
+				<ol>
+					<li>Data Organization:
+						<ul>
+							<li>Schema Design: Defining the structure of the database, including tables, fields, and relationships in relational databases.</li>
+							<li>Data Modeling: Creating models to represent data structures and their relationships</li>
+							<li>Partitioning: Dividing large datasets into smaller, more manageable pieces.</li>
+						</ul>
+					</li>
+					<li>Data Integrity:
+						<ul>
+							<li>Validation: Ensuring data conforms to predefined formats and constraints.</li>
+							<li>Normalization: Organizing data to reduce redundancy and improve consistency.</li>
+							<li>Backups: Regularly creating copies of data to prevent loss.</li>
+						</ul>
+					</li>
+					<li>Data Security:
+						<ul>
+							<li>Access Control: Restricting access to data based on user roles and permissions.</li>
+							<li>Encryption: Protecting data by converting it into a secure format during storage and transmission.</li>
+							<li>Auditing: Monitoring and recording access and modifications to data.</li>
+						</ul>
+					</li>
+					<li>Data Scalability:
+						<ul>
+							<li>Horizontal Scaling: Adding more servers to distribute the load.</li>
+							<li>Vertical Scaling: Increasing the capacity of existing servers.</li>
+							<li>Elastic Scaling: Dynamically adjusting resources based on demand.</li>
+						</ul>
+					</li>
+					<li>Data Accessibility:
+						<ul>
+							<li>Indexing: Creating indexes to speed up data retrieval.</li>
+							<li>Caching: Storing frequently accessed data in a cache to improve performance.</li>
+							<li>APIs: Providing interfaces for data access and manipulation.</li>
+						</ul>
+					</li>
+					<li>Data Lifecycle Management:
+						<ul>
+							<li>Retention Policies: Defining how long data should be kept.</li>
+							<li>Archiving: Moving old or infrequently accessed data to long-term storage solutions.</li>
+							<li>Deletion: Securely deleting data that is no longer needed.</li>
+						</ul>
+					</li>
+				</ol>
+				Storing data effectively ensures that it is preserved, accessible, and ready for analysis when needed. Proper data storage is crucial for maintaining data quality, supporting efficient data retrieval, and enabling comprehensive data analysis.
+			</p>
+        </p>
+
+		<h2>Next Steps</h2>
+		<p>
+			We have defined, collected, stored the data now lets [link:#api/en/w1/process Process Data].
+		</p>
+	</body>
+</html>

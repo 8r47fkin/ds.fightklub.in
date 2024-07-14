@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<dateCreated>Fri Jul 12 2024 09:27:00 GMT+0530 (India Standard Time)</dateCreated>
+		<dateModified>Fri Jul 12 2024 09:27:00 GMT+0530 (India Standard Time)</dateModified>
+	</head>
+	<body>
+		<outline text="Data Science">
+			<outline text="01 Introduction">
+				<outline text="Introduction"></outline>
+				<outline text="What is Data Science"></outline>
+				<outline text="Collecting Data"></outline>
+				<outline text="Storing Data"></outline>
+				<outline text="Processing Data"></outline>
+				<outline text="Describing Data"></outline>
+				<outline text="Statistical Model"></outline>
+				<outline text="Algorithmic Model"></outline>
+				<outline text="Why is Data Science so Popular today"></outline>
+				<outline text="Are AI and Data Science Related"></outline>
+				<outline text="Problem Solving"></outline>
+				<outline text="Knowledge Representation and Reasoning"></outline>
+				<outline text="Decision Making"></outline>
+				<outline text="Communication, Perception and Actuation"></outline>
+				<outline text="The Myths of Data Science"></outline>
+				<outline text="the Path to Data Science"></outline>
+			</outline>
+			<outline text="02 Engineering Data Science Systems">
+				<outline text="Engineering aspects of Data Science"></outline>
+				<outline text="system perspective of Data Science"></outline>
+				<outline text="CRISP-DM Business Understanding"></outline>
+				<outline text="CRISP-DM Data Understanding, Preparation & Modelling"></outline>
+				<outline text="CRISP-DM Evaluation and Deployment"></outline>
+				<outline text="Programming Tools"></outline>
+				<outline text="Why Python?"></outline>
+				<outline text="Python Libraries"></outline>
+			</outline>
+			<outline text="03 What is Statistics">
+				<outline text="Introduction to Statistics"></outline>
+				<outline text="What is Statistics"></outline>
+				<outline text="How to select a Sample"></outline>
+				<outline text="How to Design an Experiment"></outline>
+				<outline text="How to Describe & Summarize Data"></outline>
+				<outline text="Why do we need Probability Theory"></outline>
+				<outline text="How do we give guarantees for estimates made from sample"></outline>
+				<outline text="What is a hypothesis & How do we test it?"></outline>
+				<outline text="How to model relationship between variables?"></outline>
+				<outline text="How well does the model fit the data?"></outline>
+			</outline>
+			<outline text="04 Getting Started in Python">
+				<outline text="Getting Started with Python"></outline>
+				<outline text="Google Colab"></outline>
+				<outline text="Printing & Basic Data Types"></outline>
+				<outline text="Variables"></outline>
+				<outline text="Integers, Floating Points, Boolean types & Input"></outline>
+				<outline text="Processing Strings, Integers & Floating Points"></outline>
+				<outline text="If, For, While Blocks"></outline>
+				<outline text="Functions"></outline>
+			</outline>
+			<outline text="05 Descriptive Statistics">
+				<outline text="Introduction to Descriptive Statistics"></outline>
+				<outline text="Different types of Data"></outline>
+				<outline text="How to describe Qualitative Data?"></outline>
+				<outline text="Course Insights"></outline>
+				<outline text="How to describe Quantitative Data?
+histograms"></outline>
+				<outline text="Histograms Continued"></outline>
+				<outline text="Typical Trends in Histograms"></outline>
+				<outline text="Uses of Histograms in ML"></outline>
+				<outline text="Stem and Leaf Plots"></outline>
+				<outline text="How to describe relationship between variables? Scatter plots"></outline>
+				<outline text="Uses of Scatter Plots"></outline>
+				<outline text="Uses of Scatter Plots in ML"></outline>
+			</outline>
+			<outline text="06 Python Continued">
+				<outline text="Commenting and Error Handling"></outline>
+				<outline text="Lists"></outline>
+				<outline text="Lists Continued"></outline>
+				<outline text="Tuples & Sets"></outline>
+				<outline text="Dictionaries"></outline>
+				<outline text="File Handling - Read"></outline>
+				<outline text="File Handling - Write"></outline>
+			</outline>
+			<outline text="07 Descriptive Statistics Part 2">
+				<outline text="Introduction - Measure of Centrality and Speed"></outline>
+				<outline text="Different measures of Centrality"></outline>
+				<outline text="Characteristics of Measures of Centrality"></outline>
+				<outline text="Sensitivity of the Measures of Centrality to Outliers"></outline>
+				<outline text="What do the measures of Centrality look like for different types of distributions?"></outline>
+				<outline text="Compute median from a histogram"></outline>
+				<outline text="Compute mean from a Histogram"></outline>
+				<outline text="Compute Mode from a Histograms"></outline>
+				<outline text="Effect of Transformations on the Measures of centrality"></outline>
+			</outline>
+			<outline text="08 Descriptive Statistics Part 3">
+				<outline text="Introduction to Measures of Spread - Percentiles"></outline>
+				<outline text="Procedure for Computing Percentile"></outline>
+				<outline text="Alternative methods for Computing Percentile - Part-1"></outline>
+				<outline text="Alternative methods for Computing Percentile - Part-2"></outline>
+				<outline text="Frequently used Percentile"></outline>
+				<outline text="Compute the Percentile rank of a value in the data"></outline>
+				<outline text="Effect of Transformation on Percentiles"></outline>
+				<outline text="Summary Percentiles"></outline>
+				<outline text="Measures of Spread"></outline>
+				<outline text="Measures of Spread(Variance)"></outline>
+				<outline text="Why we square the Deviations?"></outline>
+				<outline text="What does the variance tell us about the data?"></outline>
+				<outline text="Effect of Transformations on Measures of spread"></outline>
+				<outline text="How do you use mean & Variance to Standardize Data"></outline>
+				<outline text="Summary of Measure of Spreads"></outline>
+				<outline text="What are Box Plots?"></outline>
+			</outline>
+			<outline text="09 Numpy">
+				<outline text="Python Data Containers - Reference"></outline>
+				<outline text="NumPy"></outline>
+				<outline text="High Dimensional Array & Creating NumPy Array"></outline>
+				<outline text="Indexing"></outline>
+				<outline text="Numpy Operations"></outline>
+				<outline text="Problem Solution"></outline>
+				<outline text="Broadcasting"></outline>
+				<outline text="File handling"></outline>
+				<outline text="Stats with Numpy"></outline>
+				<outline text="Rules of Statistics"></outline>
+				<outline text="Case Study & Problems"></outline>
+			</outline>
+			<outline text="10 Pandas">
+				<outline text="Introduction Pandas"></outline>
+				<outline text="Creating Series Object"></outline>
+				<outline text="iLoc & Loc"></outline>
+				<outline text="Simple Operations"></outline>
+				<outline text="Task & Solutions"></outline>
+				<outline text="NIFTY Case Study"></outline>
+			</outline>
+			<outline text="11 Pandas Continued">
+				<outline text="Dataframe Object"></outline>
+				<outline text="Task on Creating DataFrames"></outline>
+				<outline text="Creating Mean Row"></outline>
+				<outline text="Working with Planetary Dataset"></outline>
+				<outline text="Droping Null Values"></outline>
+				<outline text="Querying from dataframe"></outline>
+				<outline text="Applying functions to dataframes"></outline>
+				<outline text="Use of groupby method"></outline>
+				<outline text="Filter, Split, Apply, Aggregate"></outline>
+				<outline text="Working with Nifty50 Dataset"></outline>
+				<outline text="Nifty Data - Download"></outline>
+				<outline text="Tasks on NIFTY Datasets"></outline>
+			</outline>
+			<outline text="12 Visualization">
+				<outline text="Data Visualization"></outline>
+				<outline text="Read Complex JSON Files"></outline>
+				<outline text="Styling Tabulation"></outline>
+				<outline text="Distribution of Data - Histogram"></outline>
+				<outline text="Box Plot"></outline>
+				<outline text="Distribution of a categorical Variable"></outline>
+				<outline text="Joint Distribution of two variables"></outline>
+				<outline text="Swarm Plot"></outline>
+				<outline text="Violin Plot"></outline>
+				<outline text="Multiple Violin Plots"></outline>
+				<outline text="Paired Violin Plots"></outline>
+				<outline text="Faceted plotting"></outline>
+				<outline text="Pair Plots"></outline>
+				<outline text="Boxen Plots"></outline>
+			</outline>
+			<outline text="13 Visualization Continued">
+				<outline text="Data Visualization - Recap"></outline>
+				<outline text="Pie Chart"></outline>
+				<outline text="Donut Chart"></outline>
+				<outline text="Stacked Bar Plot"></outline>
+				<outline text="Relative Stacked Bar Plot"></outline>
+				<outline text="Time - Varying composition of data"></outline>
+				<outline text="Stacked Area Plot"></outline>
+				<outline text="Scatter Plots"></outline>
+				<outline text="Bar Plot"></outline>
+				<outline text="Continuous vs Continuous Plot"></outline>
+				<outline text="Line Plot"></outline>
+				<outline text="Line Plot Covid Data"></outline>
+				<outline text="Line Plot"></outline>
+				<outline text="Line Plot Covid Data"></outline>
+				<outline text="Heat Map"></outline>
+				<outline text="Summary & Task on Open-ended visualisation"></outline>
+			</outline>
+			<outline text="14 Approaching Open Ended DS Problems">
+				<outline text="Pandas Recap"></outline>
+				<outline text="Handling missing Data"></outline>
+				<outline text="Missing data with Pandas"></outline>
+				<outline text="Open Ended descriptive Statistics"></outline>
+				<outline text="Agriculture Example Part 1"></outline>
+				<outline text="Agriculture Example Part 2"></outline>
+			</outline>
+			<outline text="15 Counting">
+				<outline text="Why do we need Counting and Probability Theory?"></outline>
+				<outline text="Very Simple Counting"></outline>
+				<outline text="The Multiplication Principle"></outline>
+				<outline text="Multiplication Principle Special Case: Sequences with Repetition"></outline>
+				<outline text="Multiplication Principle Special Case: Sequences without Repetition"></outline>
+				<outline text="Example: A Different kind of Sequence"></outline>
+				<outline text="Multiplication Principle Special Case: Sequence Length Equals the Number of Objects"></outline>
+				<outline text="The Subtraction Principle"></outline>
+				<outline text="Collections"></outline>
+				<outline text="Collections (Some Examples)"></outline>
+				<outline text="Collections with Repetitions"></outline>
+				<outline text="Collections (+ multiplication principle)"></outline>
+				<outline text="Collections (+ subtraction principle)"></outline>
+				<outline text="Summary"></outline>
+			</outline>
+			<outline text="16 Sample Spaces & Events">
+				<outline text="Introduction"></outline>
+				<outline text="The Element of Chance (Nothing in life is Certain)"></outline>
+				<outline text="A brief overview of Set Theory"></outline>
+				<outline text="Properties of Set Operations"></outline>
+				<outline text="Experiments & Sample spaces"></outline>
+				<outline text="Events of an Experiment"></outline>
+				<outline text="Axioms of Probability"></outline>
+				<outline text="Some properties of Probability"></outline>
+				<outline text="Example Problems (Probability Theory)"></outline>
+				<outline text="Designing Probability functions (as relative frequency)"></outline>
+				<outline text="Designing Probability functions (equally likely outcomes)"></outline>
+				<outline text="Summary-1"></outline>
+				<outline text="Conditional Probabilities"></outline>
+				<outline text="The Multiplication Principle"></outline>
+				<outline text="Total Probability Theorem"></outline>
+				<outline text="Bayes' Theorem"></outline>
+				<outline text="Independent Events"></outline>
+			</outline>
+			<outline text="17 Random Variables">
+				<outline text="Introduction"></outline>
+				<outline text="Random Variables"></outline>
+				<outline text="Probability Mass Functions"></outline>
+				<outline text="Probability of PMF"></outline>
+				<outline text="Discrete Distribution "></outline>
+				<outline text="Bernoulli Distribution"></outline>
+				<outline text="Example (Binomial Distribution)"></outline>
+				<outline text="More Example (Binomial Distribution)"></outline>
+				<outline text="Is Binomial Distribution a valid distribution?"></outline>
+				<outline text="Geometric Distribution"></outline>
+				<outline text="is Geometric Distribution a valid distribution?"></outline>
+				<outline text="Uniform Distribution"></outline>
+				<outline text="Expectation"></outline>
+				<outline text="Examples - Expectation"></outline>
+				<outline text="Properties of Expectation"></outline>
+				<outline text="Function of a Random Variable"></outline>
+				<outline text="Variance of a Random Variable"></outline>
+				<outline text="Properties of Variance"></outline>
+				<outline text="Summary"></outline>
+			</outline>
+			<outline text="18 Distribution & Sample Strategies">
+				<outline text="Introduction"></outline>
+				<outline text="Continuous Random Variable"></outline>
+				<outline text="Intution: Density vs Mass"></outline>
+				<outline text="Uniform Distribution (Continuous)"></outline>
+				<outline text="Some Fun with Functions"></outline>
+				<outline text="Normal Distributions"></outline>
+				<outline text="Probability Density Function"></outline>
+				<outline text="Standard Normal Distribution"></outline>
+				<outline text="Sampling Methods"></outline>
+				<outline text="Experimental Studies"></outline>
+			</outline>
+			<outline text="19 Distribution & Sample Statistics">
+				<outline text="Introduction - Inferential Statistics"></outline>
+				<outline text="Distribution of Sample Statistics"></outline>
+				<outline text="Parameter"></outline>
+				<outline text="Sample"></outline>
+				<outline text="Why do we Compute Statistics?"></outline>
+				<outline text="Estimate Population Parameters"></outline>
+				<outline text="Random Sample"></outline>
+				<outline text="Recap: Probability"></outline>
+				<outline text="Probability Space"></outline>
+				<outline text="What kind of random variables?"></outline>
+				<outline text="What is inferential statistics?"></outline>
+				<outline text="Our Roadmap"></outline>
+				<outline text="Demo"></outline>
+			</outline>
+			<outline text="20 Central Limit Theorem">
+				<outline text="Central Limit Theorem"></outline>
+				<outline text="Demo"></outline>
+				<outline text="Alternative version of CLT"></outline>
+				<outline text="CLT - Attempt at Proof"></outline>
+				<outline text="Implications of CLT"></outline>
+				<outline text="Computing area under N"></outline>
+				<outline text="Demo 02"></outline>
+				<outline text="Special Significance for N"></outline>
+				<outline text="Likelihood of sample mean"></outline>
+				<outline text="Super-Impose N"></outline>
+				<outline text="Approximating Distributions"></outline>
+				<outline text="Demo 3"></outline>
+				<outline text="Normal Approximation of Binomial Distribution"></outline>
+			</outline>
+			<outline text="21 Chi Square Distribution">
+				<outline text="Chi Square Distribution"></outline>
+				<outline text="Estimating E[S2]"></outline>
+				<outline text="Geometric argument"></outline>
+				<outline text="Find Expected Value of the error"></outline>
+				<outline text="Estimating Var[S2]"></outline>
+				<outline text="Distribution of sum of squares of standard normal variables"></outline>
+				<outline text="Distribution for N > 1"></outline>
+				<outline text="k degrees of freedom"></outline>
+				<outline text="Variance of X2(k)"></outline>
+				<outline text="Recap & Statistics of S2"></outline>
+				<outline text="On to Experiments"></outline>
+				<outline text="Variance of Proportion"></outline>
+			</outline>
+			<outline text="22 Point and Interval Estimators">
+				<outline text="Point and Interval Estimators"></outline>
+				<outline text="Examples to Solve"></outline>
+				<outline text="What are the Estimator"></outline>
+				<outline text="Properties of Estimator"></outline>
+				<outline text="Point Estimator for Mean & Proportion"></outline>
+				<outline text="Point Estimator for Sample Variance"></outline>
+				<outline text="Example Estimation with TimeSeries"></outline>
+				<outline text="Real World Problem"></outline>
+				<outline text="On to Interval Estimators"></outline>
+				<outline text="Interval Estimator of Meu with known Alpha"></outline>
+				<outline text="Examples of Estimator"></outline>
+				<outline text="Examples of Estimation"></outline>
+				<outline text="Lower and Upper Bounds"></outline>
+				<outline text="Upper Confidence Bounds"></outline>
+				<outline text="Interval Estimator of meu with unknown alpha"></outline>
+				<outline text="T Distribution Plots"></outline>
+				<outline text="Comparing intervals bounds with z- and t-variables"></outline>
+				<outline text="Examples with T Statistics"></outline>
+				<outline text="Computing interval bounds for population proportion p"></outline>
+			</outline>
+			<outline text="23 Hypothesis Testing">
+				<outline text="Hypothesis testing case study - 1"></outline>
+				<outline text="Case study 2 - 6"></outline>
+				<outline text="Three Cases"></outline>
+				<outline text="Variance: Known - Case Study 1-2"></outline>
+				<outline text="Effect of n, beta and alpha"></outline>
+				<outline text="Variance known -Case Study 3 - 6"></outline>
+				<outline text="z-test vs t-test"></outline>
+				<outline text="Variance: Unknown - Case Study 1 & 2"></outline>
+				<outline text="Hypothesis testing proportion(p) instead of mean"></outline>
+				<outline text="Type 1 & Type 2 errors"></outline>
+				<outline text="Two Tailed & One tailed z-test"></outline>
+				<outline text="Two tailed & one tailed t-test"></outline>
+				<outline text="Plotting Distribution"></outline>
+				<outline text="Chi-square test of independence (case studies)"></outline>
+				<outline text="Chi-Square test of independence (cs-2)"></outline>
+				<outline text="Summary"></outline>
+			</outline>
+		</outline>
+		<outline text="XMind: ZEN"></outline>
+	</body>
+</opml>

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<base href="../../../../../" />
+		<script src="page.js"></script>
+		<link type="text/css" rel="stylesheet" href="page.css" />
+	</head>
+	<body>
+		<h1>Process Data</h1>
+        <br>
+        <p>
+            Data Processing is a set of 3 main sub-processes. Data Wrangling (Extraction, transformation, and loading of the data), Data Cleaning (Handling Missing Values, Outliers, etc) and Data Scaling, Normalization and Standardization.
+        </p>
+        <p>
+            <ol>
+				<li>Simplifing Workflow
+					<ul>
+						<li>Collect and Combine Data: Gather data from various sources and merge them.</li>
+						<li>Clean Data: Handle missing values, correct errors, and standardize data.</li>
+						<li>Scale, Normalize, and Standardize: Adjust the data for better performance in machine learning algorithms.</li>
+						<li>Distributed Processing: Use distributed computing frameworks to handle large-scale data processing efficiently.</li>
+					</ul>
+				</li>
+				<li>Data Wrangling (or Munging)
+					<ul>
+						<li>Collect Data: Gather data from various sources (databases, files, web scraping, APIs).</li>
+						<li>Combine Data: Merge different datasets into a single, cohesive dataset.</li>
+					</ul>
+				</li>
+				<li>Data Cleaning
+					<ul>
+						<li>Handle Missing Values:
+							<ul>
+								<li>Imputation: Fill in missing values with mean, median, or mode.</li>
+								<li>Deletion: Remove rows or columns with too many missing values.</li>
+							</ul>
+						</li>
+						<li>Correct Errors:
+							<ul>
+								<li>Identify and fix typos.</li>
+								<li>Remove duplicates.</li>
+							</ul>
+						</li>
+						<li>Standardize Data:
+							<ul>
+								<li>Consistent Formatting: Ensure dates, times, and categorical variables follow a consistent format.</li>
+								<li>Standardize Keywords: Ensure consistent naming conventions for similar categories.</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li>Data Scaling, Normalizing, and Standardizing
+					<ul>
+						<li>Scaling: Transform data to fit within a specific range (e.g., 0-1).
+							<ul>
+								<li>Min-Max Scaling: Scale features to a fixed range, usually 0 to 1.</li>
+							</ul>
+						</li>
+						<li>Normalizing: Adjust values measured on different scales to a common scale.
+							<ul>
+								<li>L2 Normalization: Scale data so that the norm (magnitude) of each sample is 1.</li>
+							</ul>
+						</li>
+						<li>Standardizing: Transform data to have a mean of 0 and a standard deviation of 1.
+							<ul>
+								<li>Z-score Standardization: Subtract the mean and divide by the standard deviation.</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li>Distributed Processing: For handling large datasets that don't fit into a single machine's memory:
+					<ul>
+						<li>Use Distributed Computing Frameworks:
+							<ul>
+								<li>Apache Hadoop: A framework that allows for the distributed processing of large data sets across clusters of computers.</li>
+								<li>Apache Spark: An open-source distributed computing system that provides an interface for programming entire clusters with implicit data parallelism and fault tolerance.</li>
+							</ul>
+						</li>
+						<li>Break Down Tasks:
+							<ul>
+								<li>Divide tasks into smaller chunks that can be processed simultaneously across multiple nodes.</li>
+							</ul>
+						</li>
+						<li>Parallel Processing:
+							<ul>
+								<li>Execute tasks in parallel to speed up the data processing workflow.</li>
+							</ul>
+						</li>
+						<li>Data Storage:
+							<ul>
+								<li>Use distributed storage systems like HDFS (Hadoop Distributed File System) or cloud-based storage like AWS S3.</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				
+			</ol>
+			By following these steps, you can effectively prepare and process your data for analysis in a streamlined and efficient manner.
+        </p>
+
+		<h2>Next Steps</h2>
+		<p>
+			Our understanding of the Data needs to be described in the next step [link:#api/en/w1/describe Describe Data].
+		</p>
+	</body>
+</html>

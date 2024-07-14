@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<base href="../../../../../" />
+		<script src="page.js"></script>
+		<link type="text/css" rel="stylesheet" href="page.css" />
+	</head>
+	<body>
+		<h1>Statistical Modelling</h1>
+        <br>
+        <p>
+            Statistical Modelling of data involves modelling the underlying data distribution and relations in the data and then making inferences on top of the model.
+        </p>
+		<p>in short
+			<ul>
+				<li>Linear Regression</li>
+				<li>Logistic Regression</li>
+				<li>Linear Discriminant Analysis</li>
+			</ul>
+		</p>
+		<h2>Key Concepts</h2>
+        <p>
+            <ol>
+				<li>Model Types:
+					<ul>
+						<li>Descriptive Models: Summarize and describe features of a dataset.</li>
+						<li>Inferential Models: Make inferences about the population from a sample.</li>
+						<li>Predictive Models: Predict future outcomes based on historical data.</li>
+						<li>Prescriptive Models: Suggest actions based on predictions to achieve desired outcomes.</li>
+					</ul>
+				</li>
+				<li>Model Components:
+					<ul>
+						<li>Variables:
+							<ul>
+								<li>Independent (Predictor) Variables: Variables that are used to predict the outcome.</li>
+								<li>Dependent (Response) Variable: The variable being predicted or explained.</li>
+							</ul>
+						</li>
+						<li>Parameters: Coefficients that quantify the relationship between variables.</li>
+						<li>Residuals: The differences between observed and predicted values.</li>
+					</ul>
+				</li>
+				<li>Types of Statistical Models:
+					<ul>
+						<li>Linear Models:
+							<ul>
+								<li>Simple Linear Regression: Models the relationship between two variables by fitting a linear equation.</li>
+								<li>Multiple Linear Regression: Extends simple linear regression to include multiple predictors.</li>
+							</ul>
+						</li>
+						<li>Generalized Linear Models (GLMs):
+							<ul>
+								<li>Logistic Regression: Used for binary outcomes.</li>
+								<li>Poisson Regression: Used for count data.</li>
+							</ul>
+						</li>
+						<li>Non-linear Models:
+							<ul>
+								<li>Polynomial Regression: Models relationships that are polynomial in nature.</li>
+								<li>Exponential and Logarithmic Models: Model exponential growth or decay.</li>
+							</ul>
+						</li>
+						<li>Time Series Models:
+							<ul>
+								<li>ARIMA (AutoRegressive Integrated Moving Average): Used for forecasting time series data.</li>
+							</ul>
+						</li>
+						<li>Survival Models:
+							<ul>
+								<li>Cox Proportional Hazards Model: Used to analyze survival data and time-to-event data.</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+			</ol>
+        </p>
+		<h2>Steps in Statistical Modeling</h2>
+		<p>
+			<ol>
+				<li>Problem Definition:
+					<ul>
+						<li>Clearly define the problem and objectives.</li>
+						<li>Identify the variables of interest and determine the relationship to be modeled.</li>
+					</ul>
+				</li>
+				<li>Data Collection:
+					<ul>
+						<li>Gather relevant data from various sources.</li>
+						<li>Ensure data quality and completeness.</li>
+					</ul>
+				</li>
+				<li>Exploratory Data Analysis (EDA):
+					<ul>
+						<li>Perform initial data analysis to understand data characteristics.</li>
+						<li>Visualize data distributions, correlations, and identify patterns.</li>
+						<li>Detect and handle outliers and missing values.</li>
+					</ul>
+				</li>
+				<li>Feature Engineering:
+					<ul>
+						<li>Create new features or modify existing ones to improve model performance.</li>
+						<li>Encode categorical variables and normalize numerical variables.</li>
+						<li>Handle multicollinearity by removing or combining correlated features.</li>
+					</ul>
+				</li>
+				<li>Model Selection:
+					<ul>
+						<li>Choose an appropriate statistical model based on the problem and data characteristics.</li>
+						<li>Consider model complexity and interpretability.</li>
+					</ul>
+				</li>
+				<li>Model Training:
+					<ul>
+						<li>Split data into training and testing sets.</li>
+						<li>Fit the model to the training data.</li>
+						<li>Estimate model parameters using appropriate algorithms (e.g., least squares for linear regression).</li>
+					</ul>
+				</li>
+				<li>Model Evaluation:
+					<ul>
+						<li>Evaluate model performance using appropriate metrics (e.g., RMSE, R-squared for regression; accuracy, precision, recall, F1-score for classification).</li>
+						<li>Perform cross-validation to ensure model generalizability.</li>
+						<li>Check model assumptions and diagnostics (e.g., residual analysis, multicollinearity).</li>
+					</ul>
+				</li>
+				<li>Model Tuning:
+					<ul>
+						<li>Optimize model parameters using techniques like grid search or random search.</li>
+						<li>Regularize models to prevent overfitting (e.g., Lasso, Ridge regression).</li>
+					</ul>
+				</li>
+				<li>Model Interpretation:
+					<ul>
+						<li>Interpret model coefficients to understand the relationships between variables.</li>
+						<li>Assess the significance of predictors and their impact on the response variable.</li>
+					</ul>
+				</li>
+				<li>Model Deployment:
+					<ul>
+						<li>Implement the model in a production environment.</li>
+						<li>Monitor model performance and update as necessary.</li>
+					</ul>
+				</li>
+				<li>Communicate Results:
+					<ul>
+						<li>Present findings and insights using visualizations and summaries.</li>
+						<li>Provide actionable recommendations based on the model results.</li>
+					</ul>
+				</li>
+			</ol>
+		</p>
+		<h3>Advanced Topics</h3>
+		<ul>
+			<li>Bayesian Modeling: Incorporates prior knowledge and updates beliefs with new data using Bayes' theorem.</li>
+			<li>Ensemble Methods: Combine multiple models to improve predictions (e.g., Random Forest, Gradient Boosting).</li>
+			<li>Regularization Techniques: Prevent overfitting by adding penalties to the model complexity (e.g., L1, L2 regularization).</li>
+			<li>Dimensionality Reduction: Reduce the number of features while retaining important information (e.g., PCA, t-SNE).</li>
+		</ul>
+		<p>
+			Statistical modeling is a fundamental aspect of data science, enabling data scientists to make data-driven decisions, predict future trends, and uncover insights from complex datasets.
+		</p>
+
+		<h2>Next Steps</h2>
+		<p>
+			Lets get into the realm of [link:#api/en/w1/am Algorithemic modelling].
+		</p>
+	</body>
+</html>
